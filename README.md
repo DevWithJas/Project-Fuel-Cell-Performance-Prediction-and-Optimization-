@@ -16,4 +16,3 @@
 6. **Significance and Applications:**
    Significantly contributed to clean energy technologies by optimizing fuel cell design for electric vehicles. Enhanced understanding of fuel cell behavior and parameter relationships. Developed practical skills in data analysis, machine learning, and sustainable energy solutions.
 
-Adding these detailed descriptions to your project overview can provide a more comprehensive understanding of the project's objectives, methodologies, and outcomes. It also highlights your technical skills and expertise in the field of clean energy and data analysis.
