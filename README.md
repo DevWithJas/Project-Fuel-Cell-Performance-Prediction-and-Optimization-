@@ -1,5 +1,3 @@
-Certainly, here are more detailed descriptions for each point:
-
 1. **Project Overview:**
    Simulated fuel cell behavior and optimized design for electric vehicle (EV) integration. Utilized a synthetic dataset and machine learning to predict power output. Explored relationships between various parameters and performance metrics.
 
