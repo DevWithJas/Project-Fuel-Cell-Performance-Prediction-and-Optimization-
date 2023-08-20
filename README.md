@@ -22,9 +22,6 @@
 
 ![Screenshot (14)](https://github.com/CreateJas/Project-Fuel-Cell-Performance-Prediction-and-Optimization-/assets/91935368/82fc2a65-e629-4970-a0eb-d0428d38482f)
 
-    ![ComfortableFriendlyCalf-size_restricted](https://github.com/CreateJas/Project-Fuel-Cell-Performance-Prediction-and- 
-      Optimization-/assets/91935368/e780ac11-9a3b-41f3-a1c9-c87d97575c47)
-
 
 
 
