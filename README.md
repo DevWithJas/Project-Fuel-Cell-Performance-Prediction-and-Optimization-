@@ -16,12 +16,9 @@
 6. **Significance and Applications:**
    This project makes a formidable stride towards clean energy technologies, offering an optimized blueprint for fuel cell design tailored for EVs. It magnifies the lens through which we observe fuel cell behavior, uncovering parameter relationships that sculpt energy evolution. My journey equipped me with tangible skills in data analysis, machine learning, and the realm of sustainable energy solutions, solidifying my commitment to innovation.
 
-![Screenshot (12)](https://github.com/CreateJas/Project-Fuel-Cell-Performance-Prediction-and-Optimization-/assets/91935368/b74fa77f-ee41-489a-9c3a-8f85a4a66432)
+![Screenshot (12)](https://github.com/CreateJas/Project-Fuel-Cell-Performance-Prediction-and-Optimization-/assets/91935368/631a0f26-b21e-4539-8d4c-dc26874db022)
 
-![Screenshot (13)](https://github.com/CreateJas/Project-Fuel-Cell-Performance-Prediction-and-Optimization-/assets/91935368/657105c2-afd2-4554-8061-79e0d7379faa)
+![Screenshot (14)](https://github.com/CreateJas/Project-Fuel-Cell-Performance-Prediction-and-Optimization-/assets/91935368/3ab6ee6c-ec7c-47e6-aaf2-65f65b25e368)
 
-![Screenshot (14)](https://github.com/CreateJas/Project-Fuel-Cell-Performance-Prediction-and-Optimization-/assets/91935368/82fc2a65-e629-4970-a0eb-d0428d38482f)
-
-
-
+![Screenshot (15)](https://github.com/CreateJas/Project-Fuel-Cell-Performance-Prediction-and-Optimization-/assets/91935368/5538411f-8a22-4ba2-8c62-40c25000320f)
 
